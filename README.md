@@ -49,8 +49,8 @@ This project is open-source and available under the MIT License.
 
 Connect with me:
 
-GitHub: SzaboBoris
-LinkedIn: Boris Szabo
+- GitHub: SzaboBoris
+- LinkedIn: Boris Szabo
 
 !!!Note: This project is continually evolving. Stay tuned for updates and new features!!!
 
