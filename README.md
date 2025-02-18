@@ -57,9 +57,9 @@ Feel free to explore the different sections of the portfolio:
 - **About:** Information about my background and skills.
 - **Contact:** Ways to get in touch.
 
-## Contributing
+## 🤝 Contributing
 
-Contributions are welcome! If you have suggestions or improvements, please follow these steps:
+Contributions are **welcome and appreciated**! If you have suggestions or improvements, please follow these steps:
 
 1. **Fork the repository.**
 
