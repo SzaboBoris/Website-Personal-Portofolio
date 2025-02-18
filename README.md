@@ -42,7 +42,7 @@ Run the following command to check the files:
 - **ls**  # (Mac/Linux)
 - **dir** # (Windows)
 
-###You can also open this in VSCode (optional)###
+### You can also open this in VSCode (optional) ###
 
 ![Portfolio Banner](https://raw.githubusercontent.com/SzaboBoris/Website-Personal-Portofolio/6305654b453827d6da7c27e680feb0b7c9f271c1/carbon.png)
 
