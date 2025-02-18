@@ -49,10 +49,10 @@ Run the following command to check the files:
 
 Feel free to explore the different sections of the portfolio:
 
-Home: Introduction and brief overview.
-Projects: Detailed descriptions of selected projects.
-About: Information about my background and skills.
-Contact: Ways to get in touch.
+- **Home:** Introduction and brief overview.
+- **Projects:** Detailed descriptions of selected projects.
+- **About:** Information about my background and skills.
+- **Contact:** Ways to get in touch.
 
 ## Contributing
 
