@@ -31,7 +31,7 @@ To set up and run the project, follow these steps:
 - **Linux:** Open the terminal with `Ctrl + Alt + T`.
 
 ### 2. Clone the Repository (if you haven't already)
-```bash
+``bash
 ##git clone https://github.com/SzaboBoris/Website-Personal-Portofolio.git)##
 
 ### 3. Move into the Project Folder
