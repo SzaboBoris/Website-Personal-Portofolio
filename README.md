@@ -2,7 +2,7 @@
 
 ## About
 
-This project is a personal portfolio website designed to showcase my skills, projects, and experiences as a software engineer. The website is built using HTML and CSS, providing a clean and responsive design to highlight my professional background and work samples.
+This is the easiest way to showcase yourself in a website format
 
 ## Features
 
