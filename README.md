@@ -31,20 +31,16 @@ To set up and run the project, follow these steps:
 - **Linux:** Open the terminal with `Ctrl + Alt + T`.
 
 ### 2. Clone the Repository (if you haven't already):
- Like showned in the **Installation** section
+Like showned in the **Installation** section
 
 ### 3. Move into the Project Folder
-cd Website-Personal-Portofolio
+- cd Website-Personal-Portofolio
 
 ### 4.  Verify You're in the Right Directory
 Run the following command to check the files:
 
 - **ls**  # (Mac/Linux)
 - **dir** # (Windows)
-
-
-
-
 
 ![Portfolio Banner](https://raw.githubusercontent.com/SzaboBoris/Website-Personal-Portofolio/6305654b453827d6da7c27e680feb0b7c9f271c1/carbon.png)
 
