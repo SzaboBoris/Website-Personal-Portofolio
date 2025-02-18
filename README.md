@@ -21,8 +21,32 @@ To run this project locally:
    ```bash
    git clone https://github.com/SzaboBoris/Website-Personal-Portofolio.git
 
-## Navigate to the project directory 
- cd Website-Personal-Portofolio
+## 📂 Navigating to the Project Directory
+
+To set up and run the project, follow these steps:
+
+### 1. Open the Terminal
+- **Mac:** Press `Cmd + Space`, type **Terminal**, and press **Enter**.
+- **Windows:** Open **Command Prompt (cmd)** or **Git Bash**.
+- **Linux:** Open the terminal with `Ctrl + Alt + T`.
+
+### 2. Clone the Repository (if you haven't already)
+```bash
+##git clone https://github.com/SzaboBoris/Website-Personal-Portofolio.git)##
+
+### 3. Move into the Project Folder
+cd Website-Personal-Portofolio
+
+### 4.  Verify You're in the Right Directory
+Run the following command to check the files:
+
+- **ls**  # (Mac/Linux)
+- **dir** # (Windows)
+
+
+
+
+
 ![Portfolio Banner](https://raw.githubusercontent.com/SzaboBoris/Website-Personal-Portofolio/6305654b453827d6da7c27e680feb0b7c9f271c1/carbon.png)
 
 
