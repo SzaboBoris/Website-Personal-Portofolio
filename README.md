@@ -45,7 +45,8 @@ Run the following command to check the files:
 ### You can also open this in VSCode (optional) ###
 
 ![Portfolio Banner](https://raw.githubusercontent.com/SzaboBoris/Website-Personal-Portofolio/6305654b453827d6da7c27e680feb0b7c9f271c1/carbon.png)
-
+ 
+🧭 Made a simple navigation system which is user-friendly and runs smoothly on the page
 
 ## Usage
 
@@ -71,7 +72,7 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 ## License
 This project is open-source and available under the MIT License.
 
-## Contact
+## Contact 📞
 
 Connect with me:
 
