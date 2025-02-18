@@ -21,7 +21,7 @@ To run this project locally:
 ## Navigate to the project directory 
  cd Website-Personal-Portofolio
 
-##Usage
+## Usage
 
 Feel free to explore the different sections of the portfolio:
 
@@ -30,7 +30,7 @@ Projects: Detailed descriptions of selected projects.
 About: Information about my background and skills.
 Contact: Ways to get in touch.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please follow these steps:
 
@@ -41,11 +41,11 @@ Make your changes and commit: git commit -m 'Add some feature'
 
 Push to the branch: git push origin feature/YourFeatureName
 
-##License
+## License
 T
 his project is open-source and available under the MIT License.
 
-##Contact
+## Contact
 
 Connect with me:
 
