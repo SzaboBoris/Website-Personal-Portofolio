@@ -19,7 +19,7 @@ To run this project locally:
    git clone https://github.com/SzaboBoris/Website-Personal-Portofolio.git
 
 ## Navigate to the project directory 
-cd Website-Personal-Portofolio
+ cd Website-Personal-Portofolio
 
 ##Usage
 
