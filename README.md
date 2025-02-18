@@ -23,6 +23,8 @@ To run this project locally:
 
 ## Navigate to the project directory 
  cd Website-Personal-Portofolio
+ ![Uploading image.png…]()
+
 
 ## Usage
 
