@@ -20,7 +20,7 @@ To run this project locally:
 1. **Clone the repository**:
    ```bash
 
-   git clone https://github.com/SzaboBoris/Website-Personal-Portofolio.git
+   ### git clone ### https://github.com/SzaboBoris/Website-Personal-Portofolio.git
 
 ## 📂 Navigating to the Project Directory
 
