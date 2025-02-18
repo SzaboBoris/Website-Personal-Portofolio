@@ -34,13 +34,13 @@ Contact: Ways to get in touch.
 
 Contributions are welcome! If you have suggestions or improvements, please follow these steps:
 
-Fork the repository.
+1. **Fork the repository.**
 
-Create a new branch: git checkout -b feature/YourFeatureName
+2. **Create a new branch:** git checkout -b feature/YourFeatureName
 
-Make your changes and commit: git commit -m 'Add some feature'
+3. **Make your changes and commit:** git commit -m 'Add some feature'
 
-Push to the branch: git push origin feature/YourFeatureName
+4. **Push to the branch:** git push origin feature/YourFeatureName
 
 ## License
 This project is open-source and available under the MIT License.
