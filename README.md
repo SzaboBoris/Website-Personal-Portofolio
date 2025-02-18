@@ -23,7 +23,6 @@ To run this project locally:
 
 ## Navigate to the project directory 
  cd Website-Personal-Portofolio
- [image](https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=css&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=%250A%250Anav%2520a%257B%250A%2520%2520%2520%2520font-size%253A%25201.8rem%253B%250A%2520%2520%2520%2520color%253A%2520antiquewhite%253B%250A%2520%2520%2520%2520margin-left%253A%25204rem%253B%250A%2520%2520%2520%2520font-weight%253A%2520500%253B%250A%2520%2520%2520%2520transition%253A%25200.3s%2520ease%253B%250A%2520%2520%2520%2520border-bottom%253A%25203px%2520solid%2520transparent%253B%2520%250A%257D%250A%250Anav%2520a%253Ahover%252C%250Anav%2520a.active%257B%250A%2520%2520%2520%2520color%253A%2520rgb%2841%252C%252089%252C%2520193%29%253B%250A%2520%2520%2520%2520border-bottom%253A%25203px%2520solid%2520rgb%2841%252C%252089%252C%2520193%29%253B%250A%257D%250A)
 
 
 ## Usage
