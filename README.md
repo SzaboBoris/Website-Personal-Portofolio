@@ -23,7 +23,8 @@ To run this project locally:
 
 ## Navigate to the project directory 
  cd Website-Personal-Portofolio
-[image](https://github.com/SzaboBoris/Website-Personal-Portofolio/blob/6305654b453827d6da7c27e680feb0b7c9f271c1/carbon.png)
+![Portfolio Banner](https://raw.githubusercontent.com/SzaboBoris/Website-Personal-Portofolio/6305654b453827d6da7c27e680feb0b7c9f271c1/carbon.png)
+
 
 ## Usage
 
