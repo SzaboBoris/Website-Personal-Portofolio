@@ -1,4 +1,8 @@
 ![Portfolio Screenshot](Personal_Website_Portofolio%20(1).png)
+![HTML & CSS](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+🚀 A sleek and modern **personal portfolio website** built using **HTML** and **CSS** to showcase projects, skills, and contact details.
 
 ## About
 
